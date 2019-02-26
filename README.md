@@ -2,4 +2,4 @@
 Recognition of License Plates 
 
 
-Recognition of portuguese license plates in Matlab using image processing
+Recognition of license plates in Matlab using image processing
